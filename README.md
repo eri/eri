@@ -1,5 +1,5 @@
 ### It's me, Eri 👋
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/187316528100802560?bg=0d1117)](https://discord.com/users/187316528100802560)
+<!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/187316528100802560?bg=0d1117)](https://discord.com/users/187316528100802560) -->
 
 My name is Eray, I'm a 20 years old student living in Paris, France.
 
