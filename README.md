@@ -3,7 +3,7 @@
 
 My name is Eray, I'm a 20 years old student living in Paris, France.
 
-My biggest goal is to learn and improve my current programmation skills during my 5 years of academic courses. I wish to find a job later as a web or application developer. You can check some of my projects from my repositories.
+My biggest goal is to learn and improve my programming skills during my 5 years of academic courses. I wish to find a job later as a web or application developer. You can check some of my projects from my repositories.
 
 - My website: [eri.gg](https://eri.gg)
 - Twitter: [@erionline](https://eri.gg/twitter)
