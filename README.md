@@ -8,14 +8,6 @@ French IT student from the internets. 20 years old, living in Paris, France.
 <details>
   <summary>&nbsp; <b>Stats</b></summary>
   &nbsp; 
-<!--   <details>
-    <summary> &nbsp; &nbsp; &nbsp; <b>Short bio</b></summary>
-    &nbsp;
-    <p>My name is Eray, some people do call me Eri. Currently working as TypeScript dev at Mendo SAS, student at ESTIAM Paris.
-    <p>Learning new technologies, studying to improve my programming and business skills to help build the next generation websites & apps in the future.</p>
-    <p>Check out <a href="https://eri.gg">my website</a> for more information.</p>
-    &nbsp; 
-  </details> -->
   <details>
     <summary> &nbsp; &nbsp; &nbsp; <b>GitHub Stats</b></summary>
     <!-- Remove the old stats
