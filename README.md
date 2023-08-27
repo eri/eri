@@ -1,9 +1,9 @@
 # 🦊 Eray C.
 French IT student from the internets. 21 years old, living in Paris, France. 
 
-[![website_access_erigg](https://img.shields.io/badge/Website-eri.gg-orange)](https://eri.gg)
-[![discord_social_eri](https://img.shields.io/badge/Discord-Eri%231000-5765f0)](https:/me.eri.gg/discord)
-[![twitter_follow_erionline](https://img.shields.io/badge/Twitter-%40erionline-219eeb)](https:/me.eri.gg/twitter)
+[![website_access_eridev](https://img.shields.io/badge/Website-eri.dev-orange)](https://eri.dev)
+[![discord_social_eri](https://img.shields.io/badge/Discord-eridev-5765f0)](https:/me.eri.gg/discord)
+[![twitter_follow_erionline](https://img.shields.io/badge/𝕏-%40erionline-000000)](https:/me.eri.gg/twitter)
 
 <details>
   <summary>&nbsp; <b>Stats</b></summary>
