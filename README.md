@@ -1,5 +1,5 @@
 # 🦊 Eray C.
-French IT student from the internets. 21 years old, living in Paris, France. 
+French IT student from the internets. 22 years old, living in Paris, France. 
 
 [![website_access_eridev](https://img.shields.io/badge/Website-eri.dev-orange)](https://eri.dev)
 [![discord_social_eri](https://img.shields.io/badge/Discord-eridev-5765f0)](https:/me.eri.gg/discord)
